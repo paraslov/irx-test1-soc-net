@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/irx-test1-soc-net/static/css/main.ab9bf79d.chunk.css",
+    "main.js": "/irx-test1-soc-net/static/js/main.d50e7f8a.chunk.js",
+    "main.js.map": "/irx-test1-soc-net/static/js/main.d50e7f8a.chunk.js.map",
+    "runtime-main.js": "/irx-test1-soc-net/static/js/runtime-main.72e9d6c6.js",
+    "runtime-main.js.map": "/irx-test1-soc-net/static/js/runtime-main.72e9d6c6.js.map",
+    "static/js/2.001bbc09.chunk.js": "/irx-test1-soc-net/static/js/2.001bbc09.chunk.js",
+    "static/js/2.001bbc09.chunk.js.map": "/irx-test1-soc-net/static/js/2.001bbc09.chunk.js.map",
+    "static/js/3.3aaaa123.chunk.js": "/irx-test1-soc-net/static/js/3.3aaaa123.chunk.js",
+    "static/js/3.3aaaa123.chunk.js.map": "/irx-test1-soc-net/static/js/3.3aaaa123.chunk.js.map",
+    "index.html": "/irx-test1-soc-net/index.html",
+    "static/css/main.ab9bf79d.chunk.css.map": "/irx-test1-soc-net/static/css/main.ab9bf79d.chunk.css.map",
+    "static/js/2.001bbc09.chunk.js.LICENSE.txt": "/irx-test1-soc-net/static/js/2.001bbc09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e9d6c6.js",
+    "static/js/2.001bbc09.chunk.js",
+    "static/css/main.ab9bf79d.chunk.css",
+    "static/js/main.d50e7f8a.chunk.js"
+  ]
+}
